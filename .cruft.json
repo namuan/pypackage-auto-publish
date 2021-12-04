@@ -5,7 +5,7 @@
   "context": {
     "cookiecutter": {
       "author_name": "namuan",
-      "author_email": "Your email address (eq. you@example.com)",
+      "author_email": "github@deskriders.dev",
       "github_username": "namuan",
       "project_name": "pypackage-auto-publish",
       "project_slug": "pypackage-auto-publish",
