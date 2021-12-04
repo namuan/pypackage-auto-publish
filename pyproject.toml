@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pypackage-auto-publish"
-version = "0.0.1"
+version = "0.0.3"
 description = "A sample package with best practices"
 authors = [
     "namuan <Your email address (eq. you@example.com)>",
