@@ -56,6 +56,8 @@ The documentation is automatically generated from the content of the [docs direc
 
 ### Releasing
 
+Add changelog under Unreleased section in CHANGELOG.md.
+
 Trigger the [Draft release workflow](https://github.com/namuan/pypackage-auto-publish/actions/workflows/draft_release.yml)
 (press _Run workflow_). This will update the changelog & version and create a GitHub release which is in _Draft_ state.
 
