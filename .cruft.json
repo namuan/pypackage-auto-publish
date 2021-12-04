@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/woltapp/wolt-python-package-cookiecutter",
+  "commit": "b508f7b51bc2d74d6c343cb15b94e6ec9c83355f",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "author_name": "namuan",
+      "author_email": "Your email address (eq. you@example.com)",
+      "github_username": "namuan",
+      "project_name": "pypackage-auto-publish",
+      "project_slug": "pypackage-auto-publish",
+      "package_name": "pypackage_auto_publish",
+      "project_short_description": "A sample package with best practices",
+      "_template": "https://github.com/woltapp/wolt-python-package-cookiecutter"
+    }
+  },
+  "directory": null
+}
