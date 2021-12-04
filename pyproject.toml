@@ -3,7 +3,7 @@ name = "pypackage-auto-publish"
 version = "0.0.3"
 description = "A sample package with best practices"
 authors = [
-    "namuan <Your email address (eq. you@example.com)>",
+    "namuan <github@deskriders.dev>",
 ]
 license = "MIT"
 readme = "README.md"
